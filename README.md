@@ -144,6 +144,4 @@ RATE_LIMIT_MAX=100
 - Uncached redirects: **< 50ms** p99 latency
 - Throughput: **~5,000 req/s** on a 4-core machine
 
-## 🎯 Resume Highlights
 
-> "Built a distributed URL shortener serving 5,000+ req/s using MERN stack. Implemented Redis cache-aside pattern reducing MongoDB load by 80%, sliding window rate limiting, and Node.js cluster mode for horizontal scaling. Designed async analytics pipeline using Bull job queues to prevent write amplification."
